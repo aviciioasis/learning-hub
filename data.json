@@ -3,12 +3,12 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "aviciioasis",
  "tz_label": "UTC+8",
- "updated_at": "2026-09-18 22:08",
+ "updated_at": "2026-10-02 19:48",
  "weeks": [
   {
-   "date": "2026-09-18",
-   "generated_at": "2026-09-18 22:08",
-   "range": "2026-09-11 22:08 ~ 2026-09-18 22:08",
+   "date": "2026-10-02",
+   "generated_at": "2026-10-02 19:48",
+   "range": "2026-09-25 19:48 ~ 2026-10-02 19:48",
    "courses": [
     {
      "name": "MNE5112 Mech Design w Adv. MATL & AM",
@@ -19,38 +19,14 @@
      "upcoming": [],
      "new_files": [
       {
-       "id": 16041431,
-       "name": "MNE5112-Note.1 Design,Adv Mater-2, Sept.18-2026.pdf",
+       "id": 16141000,
+       "name": "MNE5112-addtive manufacturing. 2026-27-Oct.2.pdf",
        "kind": "PDF",
-       "created_at": "2026-09-18 11:46",
-       "updated_at": "2026-09-18 13:16",
+       "created_at": "2026-10-01 20:44",
+       "updated_at": "2026-10-02 14:01",
        "is_update": true,
-       "size_bytes": 3758737,
-       "size_kb": 3671,
-       "url": "https://canvas.cityu.edu.hk/courses/71553/files",
-       "saved": true
-      },
-      {
-       "id": 16009659,
-       "name": "工作簿1_Sheet1(1).png",
-       "kind": "其他",
-       "created_at": "2026-09-15 08:56",
-       "updated_at": "2026-09-15 18:16",
-       "is_update": true,
-       "size_bytes": 391994,
-       "size_kb": 383,
-       "url": "https://canvas.cityu.edu.hk/courses/71553/files",
-       "saved": true
-      },
-      {
-       "id": 16004533,
-       "name": "IMG_0493.jpeg",
-       "kind": "其他",
-       "created_at": "2026-09-14 16:00",
-       "updated_at": "2026-09-14 16:00",
-       "is_update": false,
-       "size_bytes": 273455,
-       "size_kb": 267,
+       "size_bytes": 11371944,
+       "size_kb": 11105,
        "url": "https://canvas.cityu.edu.hk/courses/71553/files",
        "saved": true
       }
@@ -63,9 +39,107 @@
      "code": "202609MNE6113_MNE8111",
      "term": "2026/27 Semester A",
      "url": "https://canvas.cityu.edu.hk/courses/71562",
-     "new_assignments": [],
+     "new_assignments": [
+      {
+       "name": "HW - 1",
+       "kind": "测验",
+       "due_at": "2026-10-10 19:00",
+       "due_iso": "2026-10-10T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/336619",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
      "upcoming": [],
-     "new_files": [],
+     "new_files": [
+      {
+       "id": 16138363,
+       "name": "Class note for MNE6113 and MNE8111-0930-2026.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-01 12:16",
+       "updated_at": "2026-10-02 12:03",
+       "is_update": true,
+       "size_bytes": 1762465,
+       "size_kb": 1721,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16138362,
+       "name": "22-JJMF-36-307-Preface.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-01 12:16",
+       "updated_at": "2026-10-02 12:38",
+       "is_update": true,
+       "size_bytes": 1744857,
+       "size_kb": 1704,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16129205,
+       "name": "04-Two-phase Flow Fundamentals.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 10:22",
+       "updated_at": "2026-09-30 19:05",
+       "is_update": true,
+       "size_bytes": 11445861,
+       "size_kb": 11178,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16128846,
+       "name": "01-MNE6113 MNE8111-Course Overview-Two-phase flows-2026.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 08:49",
+       "updated_at": "2026-09-30 15:32",
+       "is_update": true,
+       "size_bytes": 5545381,
+       "size_kb": 5415,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16128845,
+       "name": "03b-Basic Concept-Supplemental.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 08:49",
+       "updated_at": "2026-09-30 19:05",
+       "is_update": true,
+       "size_bytes": 927432,
+       "size_kb": 906,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16128844,
+       "name": "03-Basic Concept.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 08:49",
+       "updated_at": "2026-09-30 17:34",
+       "is_update": true,
+       "size_bytes": 7908500,
+       "size_kb": 7723,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16128843,
+       "name": "02-Review of Fluid Mechanics.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 08:49",
+       "updated_at": "2026-09-30 17:33",
+       "is_update": true,
+       "size_bytes": 7395217,
+       "size_kb": 7222,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      }
+     ],
      "announcements": [],
      "changes": []
     },
@@ -75,29 +149,54 @@
      "term": "2026/27 Semester A",
      "url": "https://canvas.cityu.edu.hk/courses/71565",
      "new_assignments": [],
-     "upcoming": [],
+     "upcoming": [
+      {
+       "name": "Assignment 1",
+       "kind": "提交作业",
+       "due_at": "2026-10-04 23:59",
+       "due_iso": "2026-10-04T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71565/assignments/335613",
+       "status": null,
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
      "new_files": [
       {
-       "id": 16001777,
+       "id": 16126482,
        "name": "3 Linear Elasticity-2.pdf",
        "kind": "PDF",
-       "created_at": "2026-09-14 11:13",
-       "updated_at": "2026-09-14 11:30",
-       "is_update": false,
-       "size_bytes": 3209451,
-       "size_kb": 3134,
+       "created_at": "2026-09-29 22:23",
+       "updated_at": "2026-10-02 08:17",
+       "is_update": true,
+       "size_bytes": 2931089,
+       "size_kb": 2862,
        "url": "https://canvas.cityu.edu.hk/courses/71565/files",
        "saved": true
       },
       {
-       "id": 16001774,
-       "name": "2 Linear Elasticity.pdf",
+       "id": 16114450,
+       "name": "5 Finite element method-1.pdf",
        "kind": "PDF",
-       "created_at": "2026-09-14 11:13",
-       "updated_at": "2026-09-14 11:30",
+       "created_at": "2026-09-28 16:47",
+       "updated_at": "2026-09-28 17:11",
        "is_update": false,
-       "size_bytes": 2098966,
-       "size_kb": 2050,
+       "size_bytes": 1943714,
+       "size_kb": 1898,
+       "url": "https://canvas.cityu.edu.hk/courses/71565/files",
+       "saved": true
+      },
+      {
+       "id": 16110096,
+       "name": "4 Linear Elasticity-3.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-28 10:02",
+       "updated_at": "2026-09-28 12:42",
+       "is_update": true,
+       "size_bytes": 2544240,
+       "size_kb": 2485,
        "url": "https://canvas.cityu.edu.hk/courses/71565/files",
        "saved": true
       }
@@ -112,24 +211,12 @@
      "url": "https://canvas.cityu.edu.hk/courses/71567",
      "new_assignments": [
       {
-       "name": "HW1",
+       "name": "HW4",
        "kind": "提交作业",
-       "due_at": "2026-09-17 19:00",
-       "due_iso": "2026-09-17T11:00:00+00:00",
-       "points": 16.0,
-       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/333723",
-       "status": "有更新",
-       "submitted": true,
-       "graded": false,
-       "score": null
-      },
-      {
-       "name": "HW2",
-       "kind": "提交作业",
-       "due_at": "2026-09-24 19:00",
-       "due_iso": "2026-09-24T11:00:00+00:00",
-       "points": 32.0,
-       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/334637",
+       "due_at": "2026-10-13 19:00",
+       "due_iso": "2026-10-13T11:00:00+00:00",
+       "points": 75.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/336371",
        "status": "新布置",
        "submitted": false,
        "graded": false,
@@ -138,13 +225,13 @@
      ],
      "upcoming": [
       {
-       "name": "HW2",
+       "name": "HW3",
        "kind": "提交作业",
-       "due_at": "2026-09-24 19:00",
-       "due_iso": "2026-09-24T11:00:00+00:00",
-       "points": 32.0,
-       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/334637",
-       "status": "新布置",
+       "due_at": "2026-10-08 19:00",
+       "due_iso": "2026-10-08T11:00:00+00:00",
+       "points": 15.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/335548",
+       "status": null,
        "submitted": false,
        "graded": false,
        "score": null
@@ -152,26 +239,14 @@
      ],
      "new_files": [
       {
-       "id": 16029013,
-       "name": "Ch3_2026.pdf",
+       "id": 16107747,
+       "name": "2026_HW4.pdf",
        "kind": "PDF",
-       "created_at": "2026-09-16 19:09",
-       "updated_at": "2026-09-17 03:30",
+       "created_at": "2026-09-27 22:54",
+       "updated_at": "2026-09-28 10:29",
        "is_update": true,
-       "size_bytes": 7951668,
-       "size_kb": 7765,
-       "url": "https://canvas.cityu.edu.hk/courses/71567/files",
-       "saved": true
-      },
-      {
-       "id": 15993916,
-       "name": "2026_HW2.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-12 14:28",
-       "updated_at": "2026-09-12 14:34",
-       "is_update": false,
-       "size_bytes": 213840,
-       "size_kb": 209,
+       "size_bytes": 299122,
+       "size_kb": 292,
        "url": "https://canvas.cityu.edu.hk/courses/71567/files",
        "saved": true
       }
@@ -188,26 +263,50 @@
      "upcoming": [],
      "new_files": [
       {
-       "id": 16019410,
-       "name": "Lecture 3_Microscale Fluid Mechanics.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-15 16:15",
-       "updated_at": "2026-09-16 09:08",
-       "is_update": true,
-       "size_bytes": 1829525,
-       "size_kb": 1787,
+       "id": 16148458,
+       "name": "Lecture 5.pptx",
+       "kind": "PPT",
+       "created_at": "2026-10-02 17:27",
+       "updated_at": "2026-10-02 17:27",
+       "is_update": false,
+       "size_bytes": 421406,
+       "size_kb": 412,
        "url": "https://canvas.cityu.edu.hk/courses/71569/files",
        "saved": true
       },
       {
-       "id": 16019408,
-       "name": "Lecture 2.pptx",
+       "id": 16148456,
+       "name": "Lecture 4.pptx",
        "kind": "PPT",
-       "created_at": "2026-09-15 16:14",
-       "updated_at": "2026-09-16 08:09",
-       "is_update": true,
-       "size_bytes": 49597,
+       "created_at": "2026-10-02 17:27",
+       "updated_at": "2026-10-02 17:27",
+       "is_update": false,
+       "size_bytes": 49451,
        "size_kb": 48,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/files",
+       "saved": true
+      },
+      {
+       "id": 16148447,
+       "name": "Lecture 5_Surface Wettability.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-02 17:26",
+       "updated_at": "2026-10-02 17:26",
+       "is_update": false,
+       "size_bytes": 2964231,
+       "size_kb": 2895,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/files",
+       "saved": true
+      },
+      {
+       "id": 16131698,
+       "name": "MNE6127_8120_Groups adjsuted.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-30 14:46",
+       "updated_at": "2026-09-30 14:49",
+       "is_update": false,
+       "size_bytes": 60251,
+       "size_kb": 59,
        "url": "https://canvas.cityu.edu.hk/courses/71569/files",
        "saved": true
       }
@@ -220,58 +319,22 @@
      "code": "202609MNE6140",
      "term": "2026/27 Semester A",
      "url": "https://canvas.cityu.edu.hk/courses/71580",
-     "new_assignments": [],
-     "upcoming": [],
-     "new_files": [
+     "new_assignments": [
       {
-       "id": 16032252,
-       "name": "Lecture 4 Relations.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-17 09:50",
-       "updated_at": "2026-09-17 13:57",
-       "is_update": true,
-       "size_bytes": 1844845,
-       "size_kb": 1802,
-       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
-       "saved": true
-      },
-      {
-       "id": 16032251,
-       "name": "Lecture 3 Second law.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-17 09:50",
-       "updated_at": "2026-09-17 10:54",
-       "is_update": true,
-       "size_bytes": 916080,
-       "size_kb": 895,
-       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
-       "saved": true
-      },
-      {
-       "id": 16032250,
-       "name": "Lecture 6 Heat capacity.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-17 09:50",
-       "updated_at": "2026-09-17 14:10",
-       "is_update": true,
-       "size_bytes": 1877246,
-       "size_kb": 1833,
-       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
-       "saved": true
-      },
-      {
-       "id": 16032249,
-       "name": "Lecture 5 Statistical view.pdf",
-       "kind": "PDF",
-       "created_at": "2026-09-17 09:50",
-       "updated_at": "2026-09-17 14:09",
-       "is_update": true,
-       "size_bytes": 827796,
-       "size_kb": 808,
-       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
-       "saved": true
+       "name": "Assignment 1",
+       "kind": "提交作业",
+       "due_at": "2026-10-01 23:59",
+       "due_iso": "2026-10-01T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/assignments/334232",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
       }
      ],
+     "upcoming": [],
+     "new_files": [],
      "announcements": [],
      "changes": []
     },
@@ -281,7 +344,20 @@
      "term": "2026/27 Semester A",
      "url": "https://canvas.cityu.edu.hk/courses/71784",
      "new_assignments": [],
-     "upcoming": [],
+     "upcoming": [
+      {
+       "name": "PED 1305 Online Assessment",
+       "kind": "测验",
+       "due_at": "2026-10-06 23:59",
+       "due_iso": "2026-10-06T15:59:59+00:00",
+       "points": 20.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71784/assignments/324076",
+       "status": null,
+       "submitted": true,
+       "graded": true,
+       "score": 20.0
+      }
+     ],
      "new_files": [],
      "announcements": [],
      "changes": []
