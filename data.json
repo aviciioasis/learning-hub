@@ -3,13 +3,318 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "aviciioasis",
  "tz_label": "UTC+8",
- "updated_at": "2026-10-02 19:48",
+ "updated_at": "2026-10-09 20:03",
  "weeks": [
   {
-   "date": "2026-10-02",
-   "generated_at": "2026-10-02 19:48",
-   "range": "2026-09-25 19:48 ~ 2026-10-02 19:48",
+   "date": "2026-10-09",
+   "generated_at": "2026-10-09 20:03",
+   "range": "2026-10-02 20:03 ~ 2026-10-09 20:03",
    "courses": [
+    {
+     "name": "MNE5112 Mech Design w Adv. MATL & AM",
+     "code": "202609MNE5112",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71553",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6113_MNE8111 Advanced Thermo-fluid",
+     "code": "202609MNE6113_MNE8111",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71562",
+     "new_assignments": [
+      {
+       "name": "HW - 1",
+       "kind": "测验",
+       "due_at": "2026-10-10 19:00",
+       "due_iso": "2026-10-10T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/336619",
+       "status": "有更新",
+       "submitted": true,
+       "graded": true,
+       "score": null
+      }
+     ],
+     "upcoming": [
+      {
+       "name": "HW - 1",
+       "kind": "测验",
+       "due_at": "2026-10-10 19:00",
+       "due_iso": "2026-10-10T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/336619",
+       "status": "有更新",
+       "submitted": true,
+       "graded": true,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16163593,
+       "name": "MNE6113-8111 Revised Schedule.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-04 17:16",
+       "updated_at": "2026-10-05 14:14",
+       "is_update": true,
+       "size_bytes": 334862,
+       "size_kb": 327,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6116_MNE8113 Applied Engineering Mechanics",
+     "code": "202609MNE6116_MNE8113",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71565",
+     "new_assignments": [
+      {
+       "name": "Assignment 1",
+       "kind": "提交作业",
+       "due_at": "2026-10-04 23:59",
+       "due_iso": "2026-10-04T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71565/assignments/335613",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16180155,
+       "name": "6 Finite element method-2.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-05 22:42",
+       "updated_at": "2026-10-06 09:52",
+       "is_update": true,
+       "size_bytes": 1592837,
+       "size_kb": 1556,
+       "url": "https://canvas.cityu.edu.hk/courses/71565/files",
+       "saved": true
+      },
+      {
+       "id": 16165786,
+       "name": "5 Finite element method-1.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-04 20:57",
+       "updated_at": "2026-10-05 14:05",
+       "is_update": true,
+       "size_bytes": 1636015,
+       "size_kb": 1598,
+       "url": "https://canvas.cityu.edu.hk/courses/71565/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6125_MNE8108 Engineering Methods",
+     "code": "202609MNE6125_MNE8108",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71567",
+     "new_assignments": [
+      {
+       "name": "HW3",
+       "kind": "提交作业",
+       "due_at": "2026-10-08 19:00",
+       "due_iso": "2026-10-08T11:00:00+00:00",
+       "points": 15.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/335548",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [
+      {
+       "name": "HW4",
+       "kind": "提交作业",
+       "due_at": "2026-10-13 19:00",
+       "due_iso": "2026-10-13T11:00:00+00:00",
+       "points": 75.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/336371",
+       "status": null,
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16206939,
+       "name": "Ch6_2026.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-08 16:49",
+       "updated_at": "2026-10-08 17:09",
+       "is_update": false,
+       "size_bytes": 4820424,
+       "size_kb": 4707,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6127 Mic'fluidics: Fm Fundam to App",
+     "code": "202609MNE6127",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71569",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16163321,
+       "name": "Copy of MNE6127_8120 final.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-04 16:44",
+       "updated_at": "2026-10-04 16:46",
+       "is_update": false,
+       "size_bytes": 66584,
+       "size_kb": 65,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6140 Thermodynamics and kinetics",
+     "code": "202609MNE6140",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71580",
+     "new_assignments": [
+      {
+       "name": "Assignment 2",
+       "kind": "提交作业",
+       "due_at": "2026-10-29 23:59",
+       "due_iso": "2026-10-29T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/assignments/337361",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16203679,
+       "name": "Lecture 4 Relations.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-08 10:49",
+       "updated_at": "2026-10-08 12:21",
+       "is_update": true,
+       "size_bytes": 1841472,
+       "size_kb": 1798,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "PED1305 Physical Fitness - Ele",
+     "code": "202609PED1305_HW",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71784",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    }
+   ],
+   "warnings": [
+    "MNE5112 Mech Design w Adv. MATL & AM：公告未能读取（Canvas API /courses/71553/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6113_MNE8111 Advanced Thermo-fluid：公告未能读取（Canvas API /courses/71562/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6116_MNE8113 Applied Engineering Mechanics：公告未能读取（Canvas API /courses/71565/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6125_MNE8108 Engineering Methods：公告未能读取（Canvas API /courses/71567/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6127 Mic'fluidics: Fm Fundam to App：公告未能读取（Canvas API /courses/71569/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6140 Thermodynamics and kinetics：公告未能读取（Canvas API /courses/71580/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "PED1305 Physical Fitness - Ele：公告未能读取（Canvas API /courses/71784/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "generated_at": "2026-10-03 16:47",
+   "range": "2026-09-26 16:47 ~ 2026-10-03 16:47",
+   "courses": [
+    {
+     "name": "Anti-Deception Quiz 2026/27",
+     "code": "SD_ANTI_DECEPTION_2026-27_7",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/69931",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CASH Online Training Module 2026/27",
+     "code": "SD_CASH_2026-27_7",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/69942",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "Library Course for College of Engineering New Students (Sem A 26/27)",
+     "code": "L_LIB_ONLINE_CENG_202609",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/72458",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE Announcement (TPg)",
+     "code": "SD_MNE_ANNOUNCE_TPG",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/67037",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16110139,
+       "name": "MSME Handbook_202627_Final - V1.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-28 10:12",
+       "updated_at": "2026-09-30 08:31",
+       "is_update": true,
+       "size_bytes": 560488,
+       "size_kb": 547,
+       "url": "https://canvas.cityu.edu.hk/courses/67037/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
     {
      "name": "MNE5112 Mech Design w Adv. MATL & AM",
      "code": "202609MNE5112",
@@ -72,7 +377,7 @@
        "name": "22-JJMF-36-307-Preface.pdf",
        "kind": "PDF",
        "created_at": "2026-10-01 12:16",
-       "updated_at": "2026-10-02 12:38",
+       "updated_at": "2026-10-02 19:51",
        "is_update": true,
        "size_bytes": 1744857,
        "size_kb": 1704,
@@ -267,8 +572,8 @@
        "name": "Lecture 5.pptx",
        "kind": "PPT",
        "created_at": "2026-10-02 17:27",
-       "updated_at": "2026-10-02 17:27",
-       "is_update": false,
+       "updated_at": "2026-10-03 01:02",
+       "is_update": true,
        "size_bytes": 421406,
        "size_kb": 412,
        "url": "https://canvas.cityu.edu.hk/courses/71569/files",
@@ -279,8 +584,8 @@
        "name": "Lecture 4.pptx",
        "kind": "PPT",
        "created_at": "2026-10-02 17:27",
-       "updated_at": "2026-10-02 17:27",
-       "is_update": false,
+       "updated_at": "2026-10-03 01:02",
+       "is_update": true,
        "size_bytes": 49451,
        "size_kb": 48,
        "url": "https://canvas.cityu.edu.hk/courses/71569/files",
@@ -291,8 +596,8 @@
        "name": "Lecture 5_Surface Wettability.pdf",
        "kind": "PDF",
        "created_at": "2026-10-02 17:26",
-       "updated_at": "2026-10-02 17:26",
-       "is_update": false,
+       "updated_at": "2026-10-03 09:27",
+       "is_update": true,
        "size_bytes": 2964231,
        "size_kb": 2895,
        "url": "https://canvas.cityu.edu.hk/courses/71569/files",
@@ -361,7 +666,36 @@
      "new_files": [],
      "announcements": [],
      "changes": []
+    },
+    {
+     "name": "Safety Training for Research Students (MNE)",
+     "code": "SD_GEN_SFTY_MNE",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/38432",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
     }
+   ],
+   "warnings": [
+    "Anti-Deception Quiz 2026/27：课件未能读取（Canvas API /courses/69931/files 返回 HTTP 403：{\"status\":\"unauthorized\",\"errors\":[{\"message\":\"user not authorized to perform that action\"}]}）",
+    "Anti-Deception Quiz 2026/27：公告未能读取（Canvas API /courses/69931/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "CASH Online Training Module 2026/27：课件未能读取（Canvas API /courses/69942/files 返回 HTTP 403：{\"status\":\"unauthorized\",\"errors\":[{\"message\":\"user not authorized to perform that action\"}]}）",
+    "CASH Online Training Module 2026/27：公告未能读取（Canvas API /courses/69942/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "Library Course for College of Engineering New Students (Sem A 26/27)：课件未能读取（Canvas API /courses/72458/files 返回 HTTP 403：{\"status\":\"unauthorized\",\"errors\":[{\"message\":\"user not authorized to perform that action\"}]}）",
+    "Library Course for College of Engineering New Students (Sem A 26/27)：公告未能读取（Canvas API /courses/72458/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE Announcement (TPg)：公告未能读取（Canvas API /courses/67037/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE5112 Mech Design w Adv. MATL & AM：公告未能读取（Canvas API /courses/71553/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6113_MNE8111 Advanced Thermo-fluid：公告未能读取（Canvas API /courses/71562/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6116_MNE8113 Applied Engineering Mechanics：公告未能读取（Canvas API /courses/71565/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6125_MNE8108 Engineering Methods：公告未能读取（Canvas API /courses/71567/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6127 Mic'fluidics: Fm Fundam to App：公告未能读取（Canvas API /courses/71569/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "MNE6140 Thermodynamics and kinetics：公告未能读取（Canvas API /courses/71580/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "PED1305 Physical Fitness - Ele：公告未能读取（Canvas API /courses/71784/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）",
+    "Safety Training for Research Students (MNE)：课件未能读取（Canvas API /courses/38432/files 返回 HTTP 403：{\"status\":\"unauthorized\",\"errors\":[{\"message\":\"user not authorized to perform that action\"}]}）",
+    "Safety Training for Research Students (MNE)：公告未能读取（Canvas API /courses/38432/announcements 返回 HTTP 404：<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"theme-color\" content=\"#334451\">\n  \n  <me）"
    ]
   }
  ]
