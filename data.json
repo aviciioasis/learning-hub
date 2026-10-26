@@ -3,12 +3,12 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "aviciioasis",
  "tz_label": "UTC+8",
- "updated_at": "2026-10-26 14:01",
+ "updated_at": "2026-10-26 14:02",
  "weeks": [
   {
    "date": "2026-10-26",
-   "generated_at": "2026-10-26 14:01",
-   "range": "2026-10-19 14:01 ~ 2026-10-26 14:01",
+   "generated_at": "2026-10-26 14:02",
+   "range": "2026-10-19 14:02 ~ 2026-10-26 14:02",
    "courses": [
     {
      "name": "MNE5112 Mech Design w Adv. MATL & AM",
