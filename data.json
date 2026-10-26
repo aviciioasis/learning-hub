@@ -3,8 +3,276 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "aviciioasis",
  "tz_label": "UTC+8",
- "updated_at": "2026-10-25 12:11",
+ "updated_at": "2026-10-26 14:01",
  "weeks": [
+  {
+   "date": "2026-10-26",
+   "generated_at": "2026-10-26 14:01",
+   "range": "2026-10-19 14:01 ~ 2026-10-26 14:01",
+   "courses": [
+    {
+     "name": "MNE5112 Mech Design w Adv. MATL & AM",
+     "code": "202609MNE5112",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71553",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16359067,
+       "name": "MNE5112（Note2Surf)2026-Part 2.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-23 10:32",
+       "updated_at": "2026-10-23 14:06",
+       "is_update": true,
+       "size_bytes": 9538212,
+       "size_kb": 9315,
+       "url": "https://canvas.cityu.edu.hk/courses/71553/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6113_MNE8111 Advanced Thermo-fluid",
+     "code": "202609MNE6113_MNE8111",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71562",
+     "new_assignments": [
+      {
+       "name": "HW - 2",
+       "kind": "测验",
+       "due_at": "2026-10-31 19:00",
+       "due_iso": "2026-10-31T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/338535",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [
+      {
+       "name": "HW - 2",
+       "kind": "测验",
+       "due_at": "2026-10-31 19:00",
+       "due_iso": "2026-10-31T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/338535",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16333426,
+       "name": "Class note for MNE6113 and MNE8111-1021-2026.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-22 12:15",
+       "updated_at": "2026-10-22 17:41",
+       "is_update": true,
+       "size_bytes": 2881818,
+       "size_kb": 2814,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315424,
+       "name": "03-Basic Concept.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:11",
+       "is_update": true,
+       "size_bytes": 7620577,
+       "size_kb": 7442,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315423,
+       "name": "09-Modeling of Active Nucleation Site Density.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:13",
+       "is_update": true,
+       "size_bytes": 4177311,
+       "size_kb": 4079,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315422,
+       "name": "08-Two-phase heat transfer.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:31",
+       "is_update": true,
+       "size_bytes": 6685307,
+       "size_kb": 6529,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315421,
+       "name": "07-Pressure drop.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:41",
+       "is_update": true,
+       "size_bytes": 2005802,
+       "size_kb": 1959,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315419,
+       "name": "06-Two-phase flow and flow regime.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:11",
+       "is_update": true,
+       "size_bytes": 1398686,
+       "size_kb": 1366,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16315418,
+       "name": "05-Void fraction.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-20 16:58",
+       "updated_at": "2026-10-21 17:35",
+       "is_update": true,
+       "size_bytes": 785878,
+       "size_kb": 767,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6116_MNE8113 Applied Engineering Mechanics",
+     "code": "202609MNE6116_MNE8113",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71565",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6125_MNE8108 Engineering Methods",
+     "code": "202609MNE6125_MNE8108",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71567",
+     "new_assignments": [
+      {
+       "name": "HW5",
+       "kind": "提交作业",
+       "due_at": "2026-11-08 15:00",
+       "due_iso": "2026-11-08T07:00:00+00:00",
+       "points": 20.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/338735",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16338565,
+       "name": "Lecture 07-ODE.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-22 18:39",
+       "updated_at": "2026-10-22 18:49",
+       "is_update": false,
+       "size_bytes": 5240080,
+       "size_kb": 5117,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/files",
+       "saved": true
+      }
+     ],
+     "announcements": [
+      {
+       "title": "HW5 posted",
+       "created_at": "2026-10-25 08:42",
+       "summary": "Dear students, HW5 has been posted on Canvas. It is based on the last lecture about linear ordinary differential equations. The deadline for submitting this hom",
+       "url": "https://canvas.cityu.edu.hk/courses/71567/discussion_topics/642128"
+      }
+     ],
+     "changes": []
+    },
+    {
+     "name": "MNE6127 Mic'fluidics: Fm Fundam to App",
+     "code": "202609MNE6127",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71569",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6140 Thermodynamics and kinetics",
+     "code": "202609MNE6140",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71580",
+     "new_assignments": [],
+     "upcoming": [
+      {
+       "name": "Assignment 2",
+       "kind": "提交作业",
+       "due_at": "2026-10-29 23:59",
+       "due_iso": "2026-10-29T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/assignments/337361",
+       "status": null,
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16332066,
+       "name": "Lecture 6 Heat capacity.pdf",
+       "kind": "PDF",
+       "created_at": "2026-10-22 10:05",
+       "updated_at": "2026-10-22 14:02",
+       "is_update": true,
+       "size_bytes": 1883956,
+       "size_kb": 1840,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "PED1305 Physical Fitness - Ele",
+     "code": "202609PED1305_HW",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71784",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    }
+   ],
+   "warnings": []
+  },
   {
    "date": "2026-10-25",
    "generated_at": "2026-10-25 12:11",
