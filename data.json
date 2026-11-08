@@ -3,8 +3,383 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "aviciioasis",
  "tz_label": "UTC+8",
- "updated_at": "2026-10-30 19:48",
+ "updated_at": "2026-11-08 14:15",
  "weeks": [
+  {
+   "date": "2026-11-08",
+   "generated_at": "2026-11-08 14:15",
+   "range": "2026-11-01 14:15 ~ 2026-11-08 14:15",
+   "courses": [
+    {
+     "name": "MNE5112 Mech Design w Adv. MATL & AM",
+     "code": "202609MNE5112",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71553",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16486187,
+       "name": "MNE5112（Note3Nano)2026-Part 1.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-05 20:24",
+       "updated_at": "2026-11-06 13:58",
+       "is_update": true,
+       "size_bytes": 9696640,
+       "size_kb": 9469,
+       "url": "https://canvas.cityu.edu.hk/courses/71553/files",
+       "saved": true
+      }
+     ],
+     "announcements": [
+      {
+       "title": "[MNE5112 Lab Visit] Urgent Update: Lab Location Correction and Reminder",
+       "created_at": "2026-11-05 15:01",
+       "summary": "Dear Students, Good day! This is an important update and reminder regarding our upcoming MNE5112 lab visit scheduled for tomorrow, Friday, November 6 (Week 10).",
+       "url": "https://canvas.cityu.edu.hk/courses/71553/discussion_topics/644499"
+      },
+      {
+       "title": "Submission of 3D Printing Models for Course Project",
+       "created_at": "2026-11-02 15:21",
+       "summary": "Dear MNE5112 Students, Good day. Please submit your project models for 3D printing to the TAs via email by the end of this week. The teaching team will arrange ",
+       "url": "https://canvas.cityu.edu.hk/courses/71553/discussion_topics/643828"
+      }
+     ],
+     "changes": []
+    },
+    {
+     "name": "MNE6113_MNE8111 Advanced Thermo-fluid",
+     "code": "202609MNE6113_MNE8111",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71562",
+     "new_assignments": [
+      {
+       "name": "HW - 1",
+       "kind": "测验",
+       "due_at": "2026-10-10 19:00",
+       "due_iso": "2026-10-10T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/336619",
+       "status": "有更新",
+       "submitted": true,
+       "graded": true,
+       "score": null
+      },
+      {
+       "name": "HW - 2",
+       "kind": "测验",
+       "due_at": "2026-10-31 19:00",
+       "due_iso": "2026-10-31T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/338535",
+       "status": "有更新",
+       "submitted": true,
+       "graded": true,
+       "score": null
+      },
+      {
+       "name": "HW - 3",
+       "kind": "测验",
+       "due_at": "2026-11-14 19:00",
+       "due_iso": "2026-11-14T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/339519",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [
+      {
+       "name": "HW - 3",
+       "kind": "测验",
+       "due_at": "2026-11-14 19:00",
+       "due_iso": "2026-11-14T11:00:00+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/assignments/339519",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16484209,
+       "name": "Flow Loop Exercise.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-05 17:30",
+       "updated_at": "2026-11-05 17:30",
+       "is_update": false,
+       "size_bytes": 1025219,
+       "size_kb": 1001,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      },
+      {
+       "id": 16479991,
+       "name": "01-MNE6113 MNE8111-Course Overview-Two-phase flows-2026 - R.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-05 11:06",
+       "updated_at": "2026-11-05 20:22",
+       "is_update": true,
+       "size_bytes": 5545391,
+       "size_kb": 5415,
+       "url": "https://canvas.cityu.edu.hk/courses/71562/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": [
+      {
+       "type": "新评分",
+       "name": "HW - 2",
+       "detail": "已评分：- / 10.0 分"
+      }
+     ]
+    },
+    {
+     "name": "MNE6116_MNE8113 Applied Engineering Mechanics",
+     "code": "202609MNE6116_MNE8113",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71565",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6125_MNE8108 Engineering Methods",
+     "code": "202609MNE6125_MNE8108",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71567",
+     "new_assignments": [
+      {
+       "name": "HW5",
+       "kind": "提交作业",
+       "due_at": "2026-11-08 23:59",
+       "due_iso": "2026-11-08T15:59:59+00:00",
+       "points": 20.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/338735",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
+      },
+      {
+       "name": "HW7",
+       "kind": "外部工具",
+       "due_at": "2026-11-22 23:59",
+       "due_iso": "2026-11-22T15:59:59+00:00",
+       "points": 20.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/340098",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [
+      {
+       "name": "HW5",
+       "kind": "提交作业",
+       "due_at": "2026-11-08 23:59",
+       "due_iso": "2026-11-08T15:59:59+00:00",
+       "points": 20.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/assignments/338735",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16478409,
+       "name": "Lecture_09-Numerical_Methods_for_ODEs.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-05 01:37",
+       "updated_at": "2026-11-05 19:00",
+       "is_update": true,
+       "size_bytes": 7980072,
+       "size_kb": 7793,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/files",
+       "saved": true
+      },
+      {
+       "id": 16478345,
+       "name": "Lecture09_demo.ipynb",
+       "kind": "代码",
+       "created_at": "2026-11-05 01:21",
+       "updated_at": "2026-11-05 01:21",
+       "is_update": false,
+       "size_bytes": 33205,
+       "size_kb": 32,
+       "url": "https://canvas.cityu.edu.hk/courses/71567/files",
+       "saved": true
+      }
+     ],
+     "announcements": [
+      {
+       "title": "HW5 Due Today, HW7 Posted, and LOQ Survey Now Open",
+       "created_at": "2026-11-08 12:00",
+       "summary": "Dear Students, Please note the following important updates and reminders regarding our course: HW5 Due Today : This is a gentle reminder that Homework 5 is due ",
+       "url": "https://canvas.cityu.edu.hk/courses/71567/discussion_topics/644980"
+      }
+     ],
+     "changes": [
+      {
+       "type": "改期",
+       "name": "HW5",
+       "detail": "截止时间 2026-11-08 15:00 → 2026-11-08 23:59"
+      }
+     ]
+    },
+    {
+     "name": "MNE6127 Mic'fluidics: Fm Fundam to App",
+     "code": "202609MNE6127",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71569",
+     "new_assignments": [],
+     "upcoming": [
+      {
+       "name": "Miniproject submission",
+       "kind": "提交作业",
+       "due_at": "2026-11-14 23:59",
+       "due_iso": "2026-11-14T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/assignments/337858",
+       "status": null,
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "new_files": [
+      {
+       "id": 16473303,
+       "name": "Lecture 7_Inertial Microfluidics.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-04 16:34",
+       "updated_at": "2026-11-08 12:14",
+       "is_update": true,
+       "size_bytes": 2348527,
+       "size_kb": 2293,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/files",
+       "saved": true
+      },
+      {
+       "id": 16473286,
+       "name": "Lecture 9_Open Surface Microfluidics.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-04 16:33",
+       "updated_at": "2026-11-06 21:05",
+       "is_update": true,
+       "size_bytes": 2400651,
+       "size_kb": 2344,
+       "url": "https://canvas.cityu.edu.hk/courses/71569/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "MNE6140 Thermodynamics and kinetics",
+     "code": "202609MNE6140",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71580",
+     "new_assignments": [
+      {
+       "name": "Assignment 3",
+       "kind": "提交作业",
+       "due_at": "2026-11-26 23:59",
+       "due_iso": "2026-11-26T15:59:59+00:00",
+       "points": 0.0,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/assignments/339718",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16465239,
+       "name": "Lecture 11 Phase Transition.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-03 19:05",
+       "updated_at": "2026-11-06 15:59",
+       "is_update": true,
+       "size_bytes": 2133964,
+       "size_kb": 2084,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      },
+      {
+       "id": 16465238,
+       "name": "Lecture 10 Kinetics and Diffusion.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-03 19:05",
+       "updated_at": "2026-11-06 15:59",
+       "is_update": true,
+       "size_bytes": 2784185,
+       "size_kb": 2719,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      },
+      {
+       "id": 16465237,
+       "name": "Lecture 9 Solution.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-03 19:05",
+       "updated_at": "2026-11-06 15:58",
+       "is_update": true,
+       "size_bytes": 2088999,
+       "size_kb": 2040,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      },
+      {
+       "id": 16465236,
+       "name": "Lecture 8 Real gas.pdf",
+       "kind": "PDF",
+       "created_at": "2026-11-03 19:05",
+       "updated_at": "2026-11-06 15:58",
+       "is_update": true,
+       "size_bytes": 1706060,
+       "size_kb": 1666,
+       "url": "https://canvas.cityu.edu.hk/courses/71580/files",
+       "saved": true
+      }
+     ],
+     "announcements": [
+      {
+       "title": "Makeup class schedule",
+       "created_at": "2026-11-06 13:48",
+       "summary": "Dear students, Please be informed that the makeup class (our last class) will be held in the same classroom, LI-3508, on Monday, 30 November 2026, from 2:00 p.m",
+       "url": "https://canvas.cityu.edu.hk/courses/71580/discussion_topics/644750"
+      }
+     ],
+     "changes": []
+    },
+    {
+     "name": "PED1305 Physical Fitness - Ele",
+     "code": "202609PED1305_HW",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/71784",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    }
+   ],
+   "warnings": []
+  },
   {
    "date": "2026-10-30",
    "generated_at": "2026-10-30 19:48",
